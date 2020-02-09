@@ -4,7 +4,7 @@
 
 -------------
 
-Bu dosya tamamen `Kyoya` adlı kişiye aittir. Bot altyapısını sizlerin kullanması için hazırladım.
+Bu dosya tamamen `' ❁ Kyoya` adlı kişiye aittir. Bot altyapısını sizlerin kullanması için hazırladım.
 
 [Eru Destek Sunucusu](https://discord.gg/59TTxub)
 
